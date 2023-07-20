@@ -1,0 +1,3 @@
+# Ultrasound_image_Classifier
+
+The purpose of this research proposal is to create a robust model that is capable of processing raw longitudinal suprapatellar ultrasound images. The aim is to attain a high sensitivity value (+85%) in the detection of knee synovial hypertrophy along with optimizing the model and improving accuracy metrics. The dataset was obtained from Toronto North Imaging and thereafter images were classified into two categories with professional help from a Radiologist. Synovia refers to the inner layer of the articular capsule, which is a layer of strenuous connective tissue. Convolutional Neural Network (CNN) Binary Image Classifier is used to facilitate the detection of synovial hypertrophy
